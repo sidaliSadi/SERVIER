@@ -1,0 +1,17 @@
+
+/*
+    j'ai renomme le champ date par datee pour qu'il n'est pas d'ambiguïté avec le mot-clé date
+    vous aviez mentionné l'intervalle 1er janvier 2019 au 31 décembre 2019 alors que les enregistrements il y a que 2020 du coup j'ai utilisé l'année 2020
+*/
+
+SELECT datee, sum(prod_price * prod_qty) as ventes FROM servier.transaction
+where year(datee) = 2020
+group by day(datee), month(datee);
+
+
+
+SELECT client_id, sum(case when product_type = 'MEUBLE'  then prod_price * prod_qty else 0 end) as ventes_meuble, sum(case when product_type = 'DECO'  then prod_price * prod_qty else 0 end) as ventes_deco  FROM transaction
+inner join product
+where  product.product_id = transaction.prod_id and year(datee) = 2020
+group by client_id
+order by client_id desc;

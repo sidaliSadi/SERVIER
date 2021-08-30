@@ -1,0 +1,109 @@
+[
+    {
+        "drug": "DIPHENHYDRAMINE",
+        "publications": [
+            {
+                "pubTitle": "A 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations",
+                "journal": "Journal of emergency nursing",
+                "pubDate": "01/01/2019"
+            },
+            {
+                "pubTitle": "An evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy.",
+                "journal": "Journal of emergency nursing",
+                "pubDate": "01/01/2019"
+            },
+            {
+                "pubTitle": "Diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning.",
+                "journal": "The Journal of pediatrics",
+                "pubDate": "02/01/2019"
+            }
+        ],
+        "trials": [
+            {
+                "trialTitle": "Use of Diphenhydramine as an Adjunctive Sedative for Colonoscopy in Patients Chronically on Opioids",
+                "trialDate": "1 January 2020"
+            },
+            {
+                "trialTitle": "Phase 2 Study IV QUZYTTIR\u2122 (Cetirizine Hydrochloride Injection) vs V Diphenhydramine",
+                "trialDate": "1 January 2020"
+            },
+            {
+                "trialTitle": "Feasibility of a Randomized Controlled Clinical Trial Comparing the Use of Cetirizine to Replace Diphenhydramine in the Prevention of Reactions Related to Paclitaxel",
+                "trialDate": "1 January 2020"
+            }
+        ]
+    },
+    {
+        "drug": "TETRACYCLINE",
+        "publications": [
+            {
+                "pubTitle": "Tetracycline Resistance Patterns of Lactobacillus buchneri Group Strains.",
+                "journal": "Journal of food protection",
+                "pubDate": "01/01/2020"
+            },
+            {
+                "pubTitle": "Appositional Tetracycline bone formation rates in the Beagle.",
+                "journal": "American journal of veterinary research",
+                "pubDate": "02/01/2020"
+            },
+            {
+                "pubTitle": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "journal": "Psychopharmacology",
+                "pubDate": "2020-01-01"
+            }
+        ],
+        "trials": []
+    },
+    {
+        "drug": "ETHANOL",
+        "publications": [
+            {
+                "pubTitle": "Rapid reacquisition of contextual fear following extinction in mice: effects of amount of extinction, tetracycline acute ethanol withdrawal, and ethanol intoxication.",
+                "journal": "Psychopharmacology",
+                "pubDate": "2020-01-01"
+            }
+        ],
+        "trials": []
+    },
+    {
+        "drug": "ATROPINE",
+        "publications": [],
+        "trials": []
+    },
+    {
+        "drug": "EPINEPHRINE",
+        "publications": [
+            {
+                "pubTitle": "The High Cost of Epinephrine Autoinjectors and Possible Alternatives.",
+                "journal": "The journal of allergy and clinical immunology. In practice",
+                "pubDate": "01/02/2020"
+            },
+            {
+                "pubTitle": "Time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained ROSC after traumatic out-of-hospital cardiac arrest.",
+                "journal": "The journal of allergy and clinical immunology. In practice",
+                "pubDate": "01/03/2020"
+            }
+        ],
+        "trials": [
+            {
+                "trialTitle": "Tranexamic Acid Versus Epinephrine During Exploratory Tympanotomy",
+                "trialDate": "27 April 2020"
+            }
+        ]
+    },
+    {
+        "drug": "ISOPRENALINE",
+        "publications": [],
+        "trials": []
+    },
+    {
+        "drug": "BETAMETHASONE",
+        "publications": [],
+        "trials": [
+            {
+                "trialTitle": "Preemptive Infiltration With Betamethasone and Ropivacaine for Postoperative Pain in Laminoplasty or \\xc3\\xb1 Laminectomy",
+                "trialDate": "1 January 2020"
+            }
+        ]
+    }
+]
